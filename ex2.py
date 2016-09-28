@@ -1,0 +1,8 @@
+input_bill_50 = input("Enter number of 50 euro banknotes: ")
+input_bill_20 = input("Enter number of 20 euro banknotes: ")
+input_bill_10 = input("Enter number of 10 euro banknotes: ")
+input_bill_5 = input("Enter number of 5 euro banknotes: ")
+input_bill_2 = input("Enter number of 2 euro coins: ")
+input_bill_1 = input("Enter number of 1 euro coins: ")
+sum = int(input_bill_50)*50 + int(input_bill_20)*20 + int(input_bill_10)*10 + int(input_bill_5)*5 + int(input_bill_2)*2 + int(input_bill_1)
+print ("You have", sum, "euros")
