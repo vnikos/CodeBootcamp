@@ -1,0 +1,5 @@
+body {background-color: #F9F9F9; font-family: Verdana; color: #220000;}
+h1 {text-align: center; color: #660000;}
+.article {padding: 10px; margin-left: 42px;}
+#wrapper {border: 1px solid #ababab; width: 960px; margin-left: auto; margin-right: auto; background-color: #ffffff; background-image: url("../images2/spiral42.gif"); background-repeat: repeat-y;
+}
